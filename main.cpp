@@ -100,13 +100,13 @@ hand.thumbsUp();
 //  action 3: the hand gives a thumbs down
 hand.thumbsDown();
 //  7)
-//  Noun:     nose
-//  action 1: the nose drips snot
-nose.dripSnot();
-//  action 2: the nose sneezes
-nose.sneeze();
-//  action 3: the nose sniffs
-nose.sniff();
+//  Noun:     blue dog
+//  action 1: the blue dog woofs loudly
+blueDog.dripSnot();
+//  action 2: the blue dog shakes off water
+blueDog.shakesOffWater();
+//  action 3: the blue dog sniffs the air
+blueDog.sniffAir();
 //  8)
 //  Noun:      jacket
 //  action 1: the jacket tears
