@@ -76,13 +76,13 @@ grass.disperseSeed();
 //  action 3:  the grass dies
 grass.die();
 //  4)
-//  Noun:     bell
-//  action 1: the bell makes a ringing sound
-bell.ring();
-//  action 2: the bell cracks
-bell.crack();
-//  action 3: the bell swings
-bell.swing();
+//  Noun:     black radiator
+//  action 1: the black radiator heats up
+blackRadiator.heatUp();
+//  action 2: the black radiator cools down
+blackRadiator.coolDown();
+//  action 3: the black radiator leaks steam
+blackRadiator.leakSteam();
 //  5)
 //  Noun: toe
 //  action 1: the toe is stubbed
@@ -93,18 +93,18 @@ toe.wiggleUpandDown();
 toe.growToenail();
 //  6)
 //  Noun:     hand
-//  action 1: the hand waves
-hand.wave();
-//  action 2: the hand gives a thumbs up
+//  action 1: the hand twists side to side
+hand.twistsSidetoSide();
+//  action 2: the hand forms a thumbs up
 hand.thumbsUp();
-//  action 3: the hand gives a thumbs down
+//  action 3: the hand forms a thumbs down
 hand.thumbsDown();
 //  7)
 //  Noun:     blue dog
 //  action 1: the blue dog woofs loudly
-blueDog.dripSnot();
+blueDog.woofLoudly();
 //  action 2: the blue dog shakes off water
-blueDog.shakesOffWater();
+blueDog.shakeOffWater();
 //  action 3: the blue dog sniffs the air
 blueDog.sniffAir();
 //  8)
@@ -128,7 +128,7 @@ rabbit.eataCarrot();
 //  action 1: the bear eats honey
 bear.eatHoney();
 //  action 2:  the bear scratches its back
-bear.scratchBack(;)
+bear.scratchBack();
 //  action 3: the bear hibernates
 bear.hibernate();
 
