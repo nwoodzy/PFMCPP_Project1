@@ -52,85 +52,85 @@ arm.rotateCounterClockwise();           // 4) demonstrates CamelCase
 
 
 //  1)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
-
+//  Noun:     cat
+//  action 1: the cat meows
+cat.meow();
+//  action 2: the cat eats
+cat.eat();
+//  action 3: the cat pounces
+cat.pounce();
 //  2)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
-
+//  Noun:     bus
+//  action 1: the bus stops
+bus.stop();
+//  action 2: the bus turns left
+bus.turnLeft();
+//  action 3: the bus honks horn
+bus.honkHorn();
 //  3)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
-
+//  Noun:      grass
+//  action 1:  the grass photosynthesizes
+grass.photosynthesize();
+//  action 2:  the grass disperses seed
+grass.disperseSeed();
+//  action 3:  the grass dies
+grass.die();
 //  4)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
-
+//  Noun:     black radiator
+//  action 1: the black radiator heats up
+blackRadiator.heatUp();
+//  action 2: the black radiator cools down
+blackRadiator.coolDown();
+//  action 3: the black radiator leaks steam
+blackRadiator.leakSteam();
 //  5)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
-
+//  Noun: toe
+//  action 1: the toe is stubbed
+toe.stub();
+//  action 2: the toe wiggles up and down
+toe.wiggleUpandDown();
+//  action 3: the toe grows toenail
+toe.growToenail();
 //  6)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
-
+//  Noun:     hand
+//  action 1: the hand twists side to side
+hand.twistsSidetoSide();
+//  action 2: the hand forms a thumbs up
+hand.formThumbsUp();
+//  action 3: the hand forms a thumbs down
+hand.formThumbsDown();
 //  7)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
-
+//  Noun:     blue dog
+//  action 1: the blue dog woofs loudly
+blueDog.woofLoudly();
+//  action 2: the blue dog shakes off water
+blueDog.shakeOffWater();
+//  action 3: the blue dog sniffs the air
+blueDog.sniffAir();
 //  8)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
-
+//  Noun:      jacket
+//  action 1: the jacket tears
+jacket.tear();
+//  action 2: the jacket zips open
+jacket.zipOpen();
+//  action 3: the jacket zips closed
+jacket.zipClosed();
 //  9)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
-
+//  Noun:      rabbit
+//  action 1: the rabbit hops
+rabbit.hop();
+//  action 2: the rabbit hides
+rabbit.hide();
+//  action 3: the rabbit eats a carrot
+rabbit.eataCarrot();
 //  10)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
-
+//  Noun:     bear
+//  action 1: the bear eats honey
+bear.eatHoney();
+//  action 2:  the bear scratches its back
+bear.scratchBack();
+//  action 3: the bear hibernates
+bear.hibernate();
 
 
 #endif
