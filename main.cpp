@@ -96,9 +96,9 @@ toe.growToenail();
 //  action 1: the hand twists side to side
 hand.twistsSidetoSide();
 //  action 2: the hand forms a thumbs up
-hand.thumbsUp();
+hand.formThumbsUp();
 //  action 3: the hand forms a thumbs down
-hand.thumbsDown();
+hand.formThumbsDown();
 //  7)
 //  Noun:     blue dog
 //  action 1: the blue dog woofs loudly
